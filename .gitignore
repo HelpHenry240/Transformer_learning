@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.pth        # 忽略权重文件
+*.ckpt
+data/        # 忽略数据文件夹
+logs/        # 忽略日志
+.vscode/     # 忽略编辑器配置
